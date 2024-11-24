@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Nishant",
+    "email": "nsnishant5930@gmail.com",
+    "status": "Inactive",
+    "roleId": 2
+  },
+  {
+    "id": 2,
+    "name": "harsh",
+    "email": "harsh@gmail.com",
+    "status": "Active",
+    "roleId": 1
+  },
+  {
+    "id": 3,
+    "name": "Nishant",
+    "email": "123@gmail.com",
+    "status": "Active",
+    "roleId": 1
+  }
+]

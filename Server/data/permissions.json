@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Read",
+      "description": "Allows read access."
+    },
+    {
+      "name": "Write",
+      "description": "Allows write access."
+    },
+    {
+      "name": "Delete",
+      "description": "Allows delete access."
+    }
+  ]
+  
